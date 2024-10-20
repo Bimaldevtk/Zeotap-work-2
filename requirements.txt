@@ -1,0 +1,5 @@
+requests
+Flask
+SQLAlchemy
+matplotlib
+pandas
